@@ -8,9 +8,9 @@ CREATE TABLE produtos (
 );
 
 INSERT INTO produtos (nome_do_produto, quantidade_em_estoque)
-VALUES ('Produto A', 100),
-       ('Produto B', 50),
-       ('Produto C', 200);
+VALUES ('Produto A', 70),
+       ('Produto B', 100),
+       ('Produto C', 150);
 
 
 
